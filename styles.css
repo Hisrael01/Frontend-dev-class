@@ -1,0 +1,18 @@
+ .groupone {
+     color: brown;
+ }
+
+ span {
+     color: blue;
+ }
+
+ img {
+     width: 100px;
+     border-radius: 50px;
+     float: left;
+     margin-right: 10px;
+ }
+
+ .color {
+     color: rgb(7, 87, 70);
+ }
